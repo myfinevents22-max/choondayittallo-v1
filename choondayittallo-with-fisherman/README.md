@@ -87,3 +87,9 @@ The current project intentionally does **not** load third-party advertisements. 
 4. Add soundscape, Malayalam font bundling/local fallback, and polish/tutorial flow.
 5. Add Supabase auth and server-validated economy only if cloud saves/leaderboards are needed.
 6. Implement approved sponsor inventory and website ad adapter separately, with privacy policy and consent as required.
+
+## Graphics refresh (October 2026)
+
+- Updated the world lighting, fog, water material and palm frond geometry for a more natural Kerala backwater atmosphere.
+- Added `public/art-direction/kerala-backwater-target.png` as the visual direction reference for future model/animation work. It is a concept reference, not a live 3D scene or a replacement for interactive gameplay.
+- The fisherman and vallam are still procedural models. For a genuinely realistic result, replace them with optimized, licensed/glTF models and skeletal animations; the reference image is not itself a playable 3D model.
